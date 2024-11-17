@@ -7,7 +7,7 @@
   "license": "ISC",
   "description": "",
   "scripts": {
-    "dev": "node app.js"
+    "dev": "nodemon node app.js"
   },
   "dependencies": {
     "apollo-server-express": "^3.13.0",
